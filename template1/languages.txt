@@ -1,0 +1,8 @@
+es
+eu
+cs
+zh_CN
+sk
+ca
+eo
+de

@@ -1,0 +1,36 @@
+[Desktop Entry]
+_Name = uPdf
+_GenericName = uPdf
+_Comment = an application to write to pdf
+Exec = /usr/bin/updf
+Icon = /usr/share/updf/icons/updf.svg
+Type = Application
+Terminal = false
+StartupNotify = true
+Encoding = utf-8
+Categories = Utility;
+$Name[es] = _('uPdf')
+$GenericName[es] = _('uPdf')
+$Comment[es] = _('an application to write to pdf')
+$Name[eu] = _('uPdf')
+$Name[cs] = _('uPdf')
+$Name[zh_CN] = _('uPdf')
+$Name[sk] = _('uPdf')
+$Name[ca] = _('uPdf')
+$Name[eo] = _('uPdf')
+$Name[de] = _('uPdf')
+$GenericName[eu] = _('uPdf')
+$GenericName[cs] = _('uPdf')
+$GenericName[zh_CN] = _('uPdf')
+$GenericName[sk] = _('uPdf')
+$GenericName[ca] = _('uPdf')
+$GenericName[eo] = _('uPdf')
+$GenericName[de] = _('uPdf')
+$Comment[eu] = _('an application to write to pdf')
+$Comment[cs] = _('an application to write to pdf')
+$Comment[zh_CN] = _('an application to write to pdf')
+$Comment[sk] = _('an application to write to pdf')
+$Comment[ca] = _('an application to write to pdf')
+$Comment[eo] = _('an application to write to pdf')
+$Comment[de] = _('an application to write to pdf')
+
